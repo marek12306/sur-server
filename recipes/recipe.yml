@@ -1,7 +1,7 @@
 name: sur-server
 description: This is my personal OS image.
 
-base-image: ghcr.io/ublue-os/ucore:ucore-hci
+base-image: ghcr.io/ublue-os/ucore-hci
 image-version: latest
 
 modules:
